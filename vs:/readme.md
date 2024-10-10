@@ -1,0 +1,1 @@
+- [I tried 5 Firebase alternatives](https://youtu.be/SXmYUalHyYk)
