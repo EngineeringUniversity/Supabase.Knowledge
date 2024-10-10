@@ -1,0 +1,1 @@
+- [Firebase vs Supabase — I Built The Same App With Both](https://youtu.be/yGbGxWMv9KA)
